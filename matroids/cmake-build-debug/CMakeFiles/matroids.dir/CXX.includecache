@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/romanageev/CLionProjects/matroids/UnionB.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+future
+-
+queue
+-
+unordered_set
+-
+random
+-
+
