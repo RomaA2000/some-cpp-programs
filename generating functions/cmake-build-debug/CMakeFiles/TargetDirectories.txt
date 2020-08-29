@@ -1,3 +1,0 @@
-/Users/romanageev/CLionProjects/generating_functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/romanageev/CLionProjects/generating_functions/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/romanageev/CLionProjects/generating_functions/cmake-build-debug/CMakeFiles/generating_functions.dir

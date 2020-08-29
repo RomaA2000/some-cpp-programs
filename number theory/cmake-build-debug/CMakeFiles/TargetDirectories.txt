@@ -1,3 +1,0 @@
-/Users/romanageev/CLionProjects/number_theory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/romanageev/CLionProjects/number_theory/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/romanageev/CLionProjects/number_theory/cmake-build-debug/CMakeFiles/number_theory.dir
